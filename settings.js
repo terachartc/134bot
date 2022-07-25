@@ -19,19 +19,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.owner = ['+923246421538']
+global.premium = ['3021']
+global.ownernomer = '+923246421538'
+global.ownername = '3021'
+global.botname = '134bot'
 global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
+global.ig = 'https://github.com/terachartc'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
+global.sc = 'https://github.com/terachartc/134bot'
+global.myweb = 'https://youtube.com/channel/UCZXWzxe8KMHx6ffYh2yiW-A'
+global.packname = '134bot'
 global.author = '🐦Star Boy Nexus'
-global.sessionName = 'session'
+global.sessionName = 'session(1)'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
